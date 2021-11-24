@@ -25,8 +25,7 @@ Project Overview:
 # Data Exploration:
 This is what my DataExploration looks like -
 
-![newplot](/images/sms-1.png)
-![newplot (1)](/images/sms-2.png)
+![newplot](/images/deeplearning1.png)
 
 
 
